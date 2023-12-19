@@ -1,6 +1,7 @@
 ---
 title: Blinding Nights
 date: 2023-12-20
+slug: blinding-nights
 description: Blinding Nights is an up and coming game from Arcadia Studios.
 image: cover.jpg
 tags: 
