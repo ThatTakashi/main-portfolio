@@ -3,13 +3,9 @@ title: Hello World!
 date: 2023-12-02
 description: Hello World, this is the first post!
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - meta
 categories:
-    - themes
-    - syntax
+    - Other
 ---
 
 Welcome, dear readers, to a world where creativity knows no bounds and imagination takes flight. Today, we embark on an exciting journey through the heart and soul of design—an odyssey that will illuminate the artistry, innovation, and passion that fuel the creative process.

@@ -5,9 +5,10 @@ slug: wesite-design
 date: 2022-012-19 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - Web-design
 tags:
-    - Example Tag
+    - design
+    - web
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
@@ -17,21 +18,21 @@ In the ever-evolving world of web design, two key elements reign supreme: contra
 
 Contrast is the yin to the yang of design. It’s the magic wand that brings focus, clarity, and impact to your web pages. Here’s how you can wield it effectively:
 
-- Typography Brilliance: Start by choosing contrasting typefaces for your headings and body text. This not only enhances readability but also adds personality to your design.
-- Color Play: Mastering the use of color contrast is pivotal. Vibrant buttons against a muted background, for instance, can guide users’ attention and encourage action.
-- Image Magic: Use contrasting imagery to create visual interest. A striking image juxtaposed with a subtle background can tell a compelling story.
-- Hierarchy Hacks: Prioritize information with contrast. Make headlines bolder, buttons brighter, and important content more prominent.
-- Accessibility Focus: Pay attention to accessibility standards. High contrast between text and background ensures that your content is readable for all users.
+- **Typography Brilliance:** Start by choosing contrasting typefaces for your headings and body text. This not only enhances readability but also adds personality to your design.
+- **Color Play:** Mastering the use of color contrast is pivotal. Vibrant buttons against a muted background, for instance, can guide users’ attention and encourage action.
+- **Image Magic:** Use contrasting imagery to create visual interest. A striking image juxtaposed with a subtle background can tell a compelling story.
+- **Hierarchy Hacks:** Prioritize information with contrast. Make headlines bolder, buttons brighter, and important content more prominent.
+- **Accessibility Focus:** Pay attention to accessibility standards. High contrast between text and background ensures that your content is readable for all users.
 
 ### Embracing the Serenity of White Space
 
 White space, often referred to as “negative space,” is the breathing room in your design. It’s the canvas upon which your content shines. Here’s how you can harness its power:
 
-- Simplicity Sells: Keep it clean and uncluttered. White space fosters a sense of elegance and sophistication.
-- Focus on Content: Give your content room to breathe. Well-spaced paragraphs and sections make reading a pleasure.
-- Visual Balance: White space helps in achieving visual equilibrium. It can guide the eye, ensuring that users absorb the message as intended.
-- Mobile Responsiveness: Embrace responsive design with white space. It allows for comfortable navigation on various screen sizes.
-- Brand Elevation: White space can be used strategically to draw attention to your logo and branding elements, reinforcing your brand identity.
+- **Simplicity Sells:** Keep it clean and uncluttered. White space fosters a sense of elegance and sophistication.
+- **Focus on Content:** Give your content room to breathe. Well-spaced paragraphs and sections make reading a pleasure.
+- **Visual Balance:** White space helps in achieving visual equilibrium. It can guide the eye, ensuring that users absorb the message as intended.
+- **Mobile Responsiveness:** Embrace responsive design with white space. It allows for comfortable navigation on various screen sizes.
+- **Brand Elevation:** White space can be used strategically to draw attention to your logo and branding elements, reinforcing your brand identity.
 
 ### Harmony in Action
 
