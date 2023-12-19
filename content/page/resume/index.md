@@ -30,15 +30,17 @@ Howick College | 2019 – 2023
 
 ### Work Experience
 #### My Ride Botany
-Store Hand
+
+**Store Hand**
 
 Auckland | Mar 2019 – Feb 2020
 
-Bicycle Mechanic
+**Bicycle Mechanic**
 
 Auckland | Nov 2022 – Present
 
 #### Aladdin Kebabs
-Kitchen Hand
+
+**Kitchen Hand**
 
 Auckland | Jul 2021 – Aug 2021
