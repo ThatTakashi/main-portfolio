@@ -2,6 +2,7 @@
 title: Hello World!
 date: 2023-12-02
 description: Hello World, this is the first post!
+image: cover.jpg
 tags: 
     - meta
 categories:
