@@ -7,7 +7,7 @@ menu:
     main:
         weight: 2
         params: 
-            icon: archives
+            icon: clipboard-text
 ---
 
 ### About Me
