@@ -2,6 +2,7 @@
 title: "Resume"
 date: 2022-03-06
 slug: "resume"
+comments: false
 menu:
     main:
         weight: 2
