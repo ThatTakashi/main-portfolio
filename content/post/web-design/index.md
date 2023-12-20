@@ -1,7 +1,7 @@
 ---
 title: How to design better websites
 description: Some tips about the design process for websites
-slug: wesite-design
+slug: web-design
 date: 2022-012-19
 image: cover.jpg
 categories:
