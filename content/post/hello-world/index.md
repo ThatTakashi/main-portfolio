@@ -28,4 +28,4 @@ Stay tuned for our first deep dive into a captivating design project, coming soo
 
 Let the journey begin!
 
-Aidan Murray (Takashi)
+Aidan Murray (Takashi) 
